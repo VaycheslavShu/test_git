@@ -1,3 +1,5 @@
 This is my first text, which I write on English language.
 Now we see how work git on the my nountbook!
-new string recorded in new_branch!!!!!!!&&&&&&
+
+&&&&&&new string recorded in new_branch!!!!!!!&&&&&&
+
